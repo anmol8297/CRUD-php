@@ -1,5 +1,5 @@
 <?php
-    define('ROOT_URL', 'http://localhost/phpsandbox/website5/');
+    define('ROOT_URL', 'http://localhost/phpsandbox/CRUD-php/');
     define('DB_HOST', 'localhost');
     define('DB_USER', 'root');
     define('DB_PASS', '123456');
